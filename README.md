@@ -1,0 +1,1 @@
+This repository contains a simple JavaScript program that demonstrates a common coding error: division by zero. The `bug.js` file contains the buggy code, while `bugSolution.js` demonstrates a corrected version.  The error is handled gracefully, preventing unexpected program termination. This example highlights the importance of robust error handling in JavaScript applications.
